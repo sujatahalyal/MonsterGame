@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07615b3e-4774-4580-9eee-c295c11900f9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SNwekDoikRqJ7Wftr3i89RcL8p" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/test-classes" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.mimecast.manager" />
+      <recent name="com.mimecast.converter.encoder" />
+      <recent name="com.mimecast.converter.decoder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\test\resources" />
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\main\resources" />
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\main\resources\config" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mimecast" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\target\test-classes" />
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\test\resources" />
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\main\resources" />
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\test\java\com\mimecast\converter\decoder" />
+      <recent name="C:\S_LEARNING\Mimecast\new\MonsterGame\src\main\java\com\mimecast\converter" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GameManagerUtilTest">
+    <configuration name="GameManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonsterGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mimecast.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mimecast.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.mimecast.manager.GameManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameManagerUtilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonsterGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mimecast.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mimecast.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.mimecast.manager.GameManagerUtilTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameManagerUtilTest.getAliveMonsterList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonsterGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mimecast.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mimecast.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.mimecast.manager.GameManagerUtilTest" />
+      <option name="METHOD_NAME" value="getAliveMonsterList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameManagerUtilTest.getAliveMonsterList_when_killed_one" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonsterGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mimecast.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mimecast.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.mimecast.manager.GameManagerUtilTest" />
+      <option name="METHOD_NAME" value="getAliveMonsterList_when_killed_one" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameManagerUtilTest.getDestroyedCities" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MonsterGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mimecast.manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mimecast.manager" />
+      <option name="MAIN_CLASS_NAME" value="com.mimecast.manager.GameManagerUtilTest" />
+      <option name="METHOD_NAME" value="getDestroyedCities" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDecoderTest" type="JUnit" factoryName="JUnit">
+      <module name="MonsterGame" />
+      <option name="PACKAGE_NAME" value="com.mimecast.converter.decoder" />
+      <option name="MAIN_CLASS_NAME" value="com.mimecast.converter.decoder.TextDecoderTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestDecoderTest" />
+      <item itemvalue="JUnit.GameManagerUtilTest.getDestroyedCities" />
+      <item itemvalue="JUnit.GameManagerUtilTest.getAliveMonsterList" />
+      <item itemvalue="JUnit.GameManagerUtilTest.getAliveMonsterList_when_killed_one" />
+      <item itemvalue="JUnit.GameManagerUtilTest" />
+      <item itemvalue="JUnit.GameManagerTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameManagerUtilTest" />
+        <item itemvalue="JUnit.GameManagerTest" />
+        <item itemvalue="JUnit.GameManagerUtilTest.getAliveMonsterList_when_killed_one" />
+        <item itemvalue="JUnit.GameManagerUtilTest.getAliveMonsterList" />
+        <item itemvalue="JUnit.GameManagerUtilTest.getDestroyedCities" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07615b3e-4774-4580-9eee-c295c11900f9" name="Default Changelist" comment="" />
+      <created>1571417458962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571417458962</updated>
+      <workItem from="1571417462835" duration="45043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

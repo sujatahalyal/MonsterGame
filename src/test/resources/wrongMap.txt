@@ -1,0 +1,1 @@
+City1;north12=City2;east=City3

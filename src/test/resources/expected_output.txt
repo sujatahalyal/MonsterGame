@@ -1,0 +1,4 @@
+City1;north=City2;east=City3
+City2;south=City1
+City3;west=City1
+City4
