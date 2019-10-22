@@ -45,7 +45,7 @@ public class TestUtil {
 
         Map<Direction, City> city3Directions = new LinkedHashMap<>();
         city3Directions.put(Direction.WEST, city1);
-        city3.setDirection(city2Directions);
+        city3.setDirection(city3Directions);
 
 
         Map<Direction, City> city4Directions = new LinkedHashMap<>();
