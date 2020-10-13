@@ -12,7 +12,7 @@
         <java.target.versione>1.8</java.target.versione>
         <maven.versione>3.1</maven.versione>
         <common.versione>2.4</common.versione>
-        <junit.versione>4.11</junit.versione>
+        <junit.versione>4.13.1</junit.versione>
     </properties>
     <build>
         <plugins>
